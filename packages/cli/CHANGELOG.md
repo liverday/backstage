@@ -1,5 +1,13 @@
 # @backstage/cli
 
+## 0.9.2
+
+### Patch Changes
+
+- e7230ef814: Bump react-dev-utils to v12
+- Updated dependencies
+  - @backstage/config-loader@0.8.1
+
 ## 0.9.1
 
 ### Patch Changes

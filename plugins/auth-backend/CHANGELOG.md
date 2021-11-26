@@ -1,5 +1,14 @@
 # @backstage/plugin-auth-backend
 
+## 0.4.10
+
+### Patch Changes
+
+- b055a6addc: Align on usage of `cross-fetch` vs `node-fetch` in frontend vs backend packages, and remove some unnecessary imports of either one of them
+- 7071dce02d: Expose catalog lib in plugin-auth-backend, i.e `CatalogIdentityClient` class is exposed now.
+- Updated dependencies
+  - @backstage/backend-common@0.9.12
+
 ## 0.4.9
 
 ### Patch Changes

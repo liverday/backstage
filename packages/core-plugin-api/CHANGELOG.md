@@ -1,5 +1,11 @@
 # @backstage/core-plugin-api
 
+## 0.2.2
+
+### Patch Changes
+
+- b291d0ed7e: Tweaked the logged deprecation warning for `createRouteRef` to hopefully make it more clear.
+
 ## 0.2.1
 
 ### Patch Changes

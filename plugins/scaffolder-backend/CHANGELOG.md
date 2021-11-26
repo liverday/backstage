@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.15.15
+
+### Patch Changes
+
+- b055a6addc: Align on usage of `cross-fetch` vs `node-fetch` in frontend vs backend packages, and remove some unnecessary imports of either one of them
+- Updated dependencies
+  - @backstage/integration@0.6.10
+  - @backstage/plugin-catalog-backend@0.19.0
+  - @backstage/plugin-scaffolder-backend-module-cookiecutter@0.1.5
+  - @backstage/backend-common@0.9.12
+
 ## 0.15.14
 
 ### Patch Changes

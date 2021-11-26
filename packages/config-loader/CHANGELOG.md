@@ -1,5 +1,11 @@
 # @backstage/config-loader
 
+## 0.8.1
+
+### Patch Changes
+
+- b055a6addc: Align on usage of `cross-fetch` vs `node-fetch` in frontend vs backend packages, and remove some unnecessary imports of either one of them
+
 ## 0.8.0
 
 ### Minor Changes

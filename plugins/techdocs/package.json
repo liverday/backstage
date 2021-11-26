@@ -35,7 +35,7 @@
     "@backstage/catalog-model": "^0.9.7",
     "@backstage/config": "^0.1.11",
     "@backstage/core-components": "^0.7.5",
-    "@backstage/core-plugin-api": "^0.2.1",
+    "@backstage/core-plugin-api": "^0.2.2",
     "@backstage/errors": "^0.1.5",
     "@backstage/integration": "^0.6.9",
     "@backstage/integration-react": "^0.1.14",
@@ -61,7 +61,7 @@
     "react-use": "^17.2.4"
   },
   "devDependencies": {
-    "@backstage/cli": "^0.9.1",
+    "@backstage/cli": "^0.9.2",
     "@backstage/core-app-api": "^0.1.23",
     "@backstage/dev-utils": "^0.2.13",
     "@backstage/test-utils": "^0.1.23",
